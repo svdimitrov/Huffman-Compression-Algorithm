@@ -2,8 +2,21 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
-## Usage
+## Description
 My final project for the "Math Concepts for Developers" course at [SoftUni](https://softuni.bg/). 
+
+## Usage
+First, download the project:
+```
+git clone https://github.com/svdimitrov/Huffman-Compression-Algorithm.git
+```
+
+Then download the required libraries from "requirements.txt":
+
+```
+pip install -r requirements.txt
+```
+
 
 ## References
 * https://en.wikipedia.org/wiki/Huffman_coding
