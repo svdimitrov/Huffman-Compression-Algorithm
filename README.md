@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
 ## Usage
-This was my final project for the "Math Concepts for Developers" course at [SoftUni](https://softuni.bg/). 
+My final project for the "Math Concepts for Developers" course at [SoftUni](https://softuni.bg/). 
 
 ## References
 * https://en.wikipedia.org/wiki/Huffman_coding
