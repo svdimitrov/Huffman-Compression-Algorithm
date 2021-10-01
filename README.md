@@ -1,4 +1,4 @@
-# Huffman-Compression-Algorithm
+# Huffman Compression Algorithm
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)
 
