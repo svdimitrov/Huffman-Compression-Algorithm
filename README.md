@@ -11,7 +11,7 @@ First, download the project:
 git clone https://github.com/svdimitrov/Huffman-Compression-Algorithm.git
 ```
 
-Then download the required libraries from "requirements.txt":
+Then download all the required libraries from [requirements.txt](https://github.com/svdimitrov/Huffman-Compression-Algorithm/blob/master/requirements.txt):
 
 ```
 pip install -r requirements.txt
